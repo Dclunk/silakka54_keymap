@@ -21,6 +21,6 @@ Layer 1 is the nav layer, including arrow keys, delete, and media keys. The navi
 
 ### Layer 2
 
-Layer 2 has all the function keys, as well as some punctuation that is missing. On the left side, there is mostly programming punctuation (i.e. brackets). The right side has a few other punctuation keys missing.
+Layer 2 has all the function keys, as well as some punctuation that is missing. On the left side, there is mostly programming punctuation (i.e. brackets). The right side has a few other punctuation keys missing. This layer is activated by pressing the middle button of the thumb cluster on each hand (MO(1) and RCtrl).
 
 ![Layer 2](images/silakka54_layer2.png)
