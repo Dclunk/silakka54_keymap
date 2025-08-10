@@ -3,7 +3,7 @@
 Basic keymap for silakka 54 split keyboard. Meant for use in Vial.
 This is far from finished, and is only my first attempt at a keymap. There are some issues I am facing in Github issues.
 
-![Keyboard](images/silakka54_picture.png)
+![Keyboard](images/silakka54.jpeg)
 
 ## Layers
 
