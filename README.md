@@ -24,3 +24,9 @@ Layer 1 is the nav layer, including arrow keys, delete, and media keys. The navi
 Layer 2 has all the function keys, as well as some punctuation that is missing. On the left side, there is mostly programming punctuation (e.g. brackets). The right side has a few other punctuation keys missing. This layer is activated by pressing the middle button of the thumb cluster on each hand (MO(1) and RCtrl).
 
 ![Layer 2](images/silakka54_layer2.png)
+
+## Notes
+
+- There are a few clunky things currently with this layout.
+    - To change the horizontal size of windows with PaperWM, I need to press both LGui and MO(1), then press J or I to shrink or grow screen.
+    - To press Control+Shift, there is a tap dance TD(0) on the first layer. This is RAlt, unless I tap then hold. Then it becomes Control+Shift, which I use mostly for moving around tabs and windows in my terminal.
