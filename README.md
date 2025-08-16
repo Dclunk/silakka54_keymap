@@ -15,13 +15,13 @@ Layer 0 is the alpha layer, based on QWERTY.
 
 ### Layer 1
 
-Layer 1 is the nav layer, including arrow keys, delete, and media keys. The naviagation is based on Vim motions. This layer is activated by pressing MO(1), the middle button on the left thumb cluster.
+Layer 1 has all the function keys, as well as some punctuation that is missing. On the left side, there is mostly programming punctuation (e.g. brackets). The right side has a few other punctuation keys missing. This layer is activated by pressing MO(1) on layer 0.
 
 ![Layer 1](images/silakka54_layer1.png)
 
 ### Layer 2
 
-Layer 2 has all the function keys, as well as some punctuation that is missing. On the left side, there is mostly programming punctuation (e.g. brackets). The right side has a few other punctuation keys missing. This layer is activated by pressing the middle button of the thumb cluster on each hand (MO(1) and RCtrl).
+Layer 2 is the nav layer, including arrow keys, delete, and media keys. The naviagation is based on Vim motions. This layer is activated by pressing MO(1), the middle button on the left thumb cluster, with the RCtrl, the middle button on the right thumb cluster.
 
 ![Layer 2](images/silakka54_layer2.png)
 
